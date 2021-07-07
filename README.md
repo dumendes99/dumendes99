@@ -1,8 +1,5 @@
 ### Hi there!! 👋 I'm Eduardo. 
 
-
-**dumendes99/dumendes99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About Me
 
 - 🔭 I’m currently working on [printf](https://github.com/dumendes99/ft_pintf)
@@ -13,8 +10,8 @@ About Me
 <br/>
 
 <a href="https://github.com/dumendes99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dumendes99&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumendes99&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dumendes99&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumendes99&theme=tokyonight&layout=compact" />
 </a>
 
 ## 📫 Contact with Me
