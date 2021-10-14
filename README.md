@@ -2,7 +2,7 @@
 
 About Me
 
-- 🔭 I’m currently working on [so_long](https://github.com/dumendes99/epikong)
+- 🔭 I’m currently working on [push_swap](https://github.com/dumendes99/push_swap)
 - 👨‍🎓 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 🌱 I’m currently learning C, Unix and Web Development
 - 💬 Ask me about anything, it will a pleasure to help
