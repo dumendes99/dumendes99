@@ -4,7 +4,7 @@ About Me
 
 - 🔭 I’m currently working on [mini_shell](https://github.com/Luryy/minishell_shared_temp)
 - 👨‍🎓 Cadet at [42 São Paulo](https://www.42sp.org.br/)
-- 🌱 I’m currently learning C, Unix and Web Development
+- 🌱 I’m currently learning C, Node.js, Vue.js and NoSQL DataBases.
 - 💬 Ask me about anything, it will a pleasure to help
 
 <br/>
