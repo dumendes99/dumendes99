@@ -10,8 +10,8 @@ About Me
 <br/>
 
 <a href="https://github.com/dumendes99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dumendes99&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumendes99&theme=tokyonight&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dumendes99&theme=tokyonight&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumendes99&theme=tokyonight&layout=compact" />
 </a>
 
 ## 📫 Contact with Me
