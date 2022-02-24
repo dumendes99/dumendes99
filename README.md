@@ -16,6 +16,6 @@ About Me
 
 ## 📫 Contact with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/eduardo-lima-mendes-652a52213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Mendes%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:eduardomendes.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eduardomendes.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/eduardo-lima-mendes-652a52213/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:eduardomendes.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
