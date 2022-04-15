@@ -2,7 +2,7 @@
 
 About Me
 
-- 🔭 I’m currently working on [Philosophers](https://github.com/dumendes99/Philosophers)
+- 🔭 I’m currently working on [cub3D](https://github.com/dumendes99/cub3d)
 - 👨‍🎓 Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 🌱 I’m currently learning C, Node.js, Vue.js and NoSQL DataBases.
 - 💬 Ask me about anything, it will a pleasure to help
